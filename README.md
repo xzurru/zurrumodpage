@@ -1,2 +1,2 @@
 # zurrumod webpage
-zurrumod webpage for a minecraft mod
+zurrumod webpage for a minecraft mod :D
